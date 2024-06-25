@@ -1,0 +1,5 @@
+1st UI
+2nd model @domain
+3rd abstract @domain
+4th implimentation of abstract @ infrastructure
+5th block @application -> in ..._bloc.dart, add @injectable and update blocProvider @main.dart
